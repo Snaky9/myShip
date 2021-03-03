@@ -81,6 +81,7 @@ gitalk:
   clientSecret: 5f154551add8066074ca6e93034087c7d4ce3cb2
   repo: myShip
   owner: Snaky9
+  proxy: 185.199.108.153
 
 # 输入Google Analytics web tracking code
 google_analytics:
