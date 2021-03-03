@@ -79,7 +79,7 @@ footer-text: Copyright (c) 2019 来自中世界
 gitalk: 
   clientID: d0841eb829b1c8cec442
   clientSecret: 5f154551add8066074ca6e93034087c7d4ce3cb2
-  repo: https://github.com/Snaky9/myShip
+  repo: github.com/Snaky9/myShip
   owner: Snaky9
 
 # 输入Google Analytics web tracking code
