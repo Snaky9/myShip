@@ -76,12 +76,12 @@ footer-text: Copyright (c) 2019 来自中世界
 # disqus: loffer #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
-gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
-  proxy:
+gitalk: 
+  clientID: ccfca0cfbc73074d9a6d
+  clientSecret: 07a333ac3f97971e97d5e53f734060741f0f92c3
+  repo: myShip
+  owner: Snaky9
+  proxy: 185.199.108.153
 
 # 输入Google Analytics web tracking code
 google_analytics:
